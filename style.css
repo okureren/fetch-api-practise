@@ -1,0 +1,14 @@
+.row {
+  justify-content: center;
+}
+
+.col-8 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.col-8 img {
+  margin-left: 2em;
+}
