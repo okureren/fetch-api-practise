@@ -1,3 +1,3 @@
-## Working with Fetch API
+## Using Fetch
 
-I used Fake REST API from [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+I worked with Fake REST API from [jsonplaceholder](https://jsonplaceholder.typicode.com/) by using fetch() method
